@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcus Harvey
 - 👀 I’m interested in music. I play bass guitar, guitar and violin
-- 🌱 I’m currently learning to code.  Im starting over.
+- 🌱 I’m currently learning to code.  
 - 💞️ I’m looking to collaborate on projects and and stat a new career
 - 📫 How to reach me at my email mjaeharvey@gmail.com.
 
